@@ -1,3 +1,6 @@
+## PRs
+- [HEIR](https://github.com/google/heir)  is a compiler toolchain for fully homomorphic encryption (FHE). [1058](https://github.com/google/heir/pull/1058) [789](https://github.com/google/heir/pull/789) [991](https://github.com/google/heir/pull/991) [765](https://github.com/google/heir/pull/765)
+
 ## Projects
 ### [Load Store Analysis Pass](https://github.com/ahmedshakill/load-store-pass)
 - An LLVM based compiler pass to find aliasing load store instructions inside a function. Got familiar

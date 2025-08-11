@@ -1,7 +1,21 @@
 
 
 ## PRs
+- [ClangIR](https://github.com/llvm/ClangIR) is a new MLIR based high level IR for Clang. [1588](https://github.com/llvm/clangir/pull/1588)
 - [HEIR](https://github.com/google/heir)  is a compiler toolchain for fully homomorphic encryption (FHE). [1058](https://github.com/google/heir/pull/1058) [789](https://github.com/google/heir/pull/789) [991](https://github.com/google/heir/pull/991) [765](https://github.com/google/heir/pull/765)
+
+## Work Experience
+### Embedded C/C++ Developer (Dynamic Solution Innovators Ltd, April 2023 - Jan 2025)
+- I tested the functional correctness of instructions for a pre‑silicon RISC‑V chip through bare‑metal tests targeting the chip’s software emulator.
+- I updated emulator’s code to fix bugs according to the test result. Reused the same tests to validate the chip’s VHDL implementation (from
+hardware team).
+- To optimize performance, I applied RISC‑V vector intrinsics (e.g., vslideup and vslidedown), created a 2D convolution benchmark to compare
+vector and scalar execution, and ran Dhrystone and CoreMark for performance profiling.
+- Did research on porting FreeRTOS to RISC‑V and Symmetric Multi Processing.
+- Improved and maintained the HAL as the hardware features kept getting updated. HAL targeted the pre‑silicon emulated chip.
+- Got involved in Embedded Linux system integration, application programming, and development with Buildroot while porting Linux to the pre‑
+silicon chip.
+- Had an exposure with ROS2 and Gazebo simulator. I programmed and simulated a car with C++ and ROS2.
 
 ## Projects
 ### [Load Store Analysis Pass](https://github.com/ahmedshakill/load-store-pass)

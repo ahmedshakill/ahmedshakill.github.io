@@ -45,4 +45,4 @@ release build by Borland was around 20 years ago and thus is now incompatible wi
 Also integrated this into a project with CMake support which is easily usable and thus helpful for beginners in graphics as it
 requires minimal setup.
 
-## Looking for more? Have a look at my [Resume](docs/Shakil_Resume.pdf) 
+## Looking for more? Have a look at my [Resume](docs/Shakil_Ahmed.pdf) 
